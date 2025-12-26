@@ -1,0 +1,22 @@
+{
+    "version": "0.1.4",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/artpar/currier/releases/download/v0.1.4/currier_0.1.4_windows_amd64.zip",
+            "bin": [
+                "currier.exe"
+            ],
+            "hash": "b44f46b1a0c4e95fea305a38956de177964742342a762f282aaad1ee3ac9b906"
+        },
+        "arm64": {
+            "url": "https://github.com/artpar/currier/releases/download/v0.1.4/currier_0.1.4_windows_arm64.zip",
+            "bin": [
+                "currier.exe"
+            ],
+            "hash": "4347dd2e1e029e9b7174db2016b787be466dbdd5e01a2170e2a9f8844d8b50aa"
+        }
+    },
+    "homepage": "https://github.com/artpar/currier",
+    "license": "MIT",
+    "description": "Vim-modal TUI API client for developers and AI agents"
+}
