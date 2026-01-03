@@ -1,19 +1,19 @@
 {
-    "version": "0.1.34",
+    "version": "0.1.35",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/artpar/currier/releases/download/v0.1.34/currier_windows_amd64.zip",
+            "url": "https://github.com/artpar/currier/releases/download/v0.1.35/currier_windows_amd64.zip",
             "bin": [
                 "currier.exe"
             ],
-            "hash": "4769a77c26c64ce0b7d784b1aaeeefb9ce1b490128c5fe09fc9bfd98d0a9fc6d"
+            "hash": "33dac71fe41da43e3967c2a5c0393db872c9fb4c68d9f9a4f5483bff9e060b82"
         },
         "arm64": {
-            "url": "https://github.com/artpar/currier/releases/download/v0.1.34/currier_windows_arm64.zip",
+            "url": "https://github.com/artpar/currier/releases/download/v0.1.35/currier_windows_arm64.zip",
             "bin": [
                 "currier.exe"
             ],
-            "hash": "b35751e79935646bfe07fce7b02fd42263b2efdebf4b846386e6c4290060165e"
+            "hash": "0112b42b7c78fd6319f2ed33b819baedc69a2ad03cd64bd4a4b8563fede6d20d"
         }
     },
     "homepage": "https://github.com/artpar/currier",
