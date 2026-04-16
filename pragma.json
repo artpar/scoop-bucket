@@ -6,14 +6,14 @@
             "bin": [
                 "pragma.exe"
             ],
-            "hash": "d73786ad88c75d1b2d591cad0ff901ff7dac220b88093df84df45ab2c2458115"
+            "hash": "75467dbb40c55b883c028c9ba2021564f33faa92aa2ade3bf008c0fcd6be104c"
         },
         "arm64": {
             "url": "https://github.com/artpar/pragma-releases/releases/download/v0.1.0/pragma-releases_0.1.0_windows_arm64.zip",
             "bin": [
                 "pragma.exe"
             ],
-            "hash": "ff3b77da28010af1f5718f8c4430ab7bb6fefc3d9e4b90e778807de3a064e21e"
+            "hash": "4659fecba06c999e503f1e61d8a7758f1cef5a9336bd94dd75193d547aff086f"
         }
     },
     "homepage": "https://github.com/artpar/pragma-releases",
